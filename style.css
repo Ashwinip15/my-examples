@@ -677,7 +677,9 @@ button:hover{
 		padding-left: 20px;
 	}
 	/* End contact  */
-	@media screen and (max-width: 600px) {
+	
+}
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
     display: block;
@@ -685,7 +687,6 @@ button:hover{
   }
 }
 
-}
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */
